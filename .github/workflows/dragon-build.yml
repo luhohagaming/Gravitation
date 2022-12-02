@@ -21,4 +21,4 @@ jobs:
       - uses: actions/upload-artifact@v2
         with:
           name: package
-          path: Gravitation/.github/workflows
+          path: packages.Gravitation/.github/workflows/
